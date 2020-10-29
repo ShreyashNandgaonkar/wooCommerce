@@ -1,0 +1,20 @@
+.content6 {
+    height: 300px;
+}
+
+.content6-icons {
+    float: left;
+}
+
+.icons {
+    padding: 2.5rem;
+}
+
+.right-head {
+    float: right;
+    margin-right: 4rem;
+    padding: 1rem;
+    font-size: 16px;
+    letter-spacing: 0.3rem;
+    font-weight: bold;
+}

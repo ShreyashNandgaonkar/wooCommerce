@@ -1,0 +1,91 @@
+.curve {
+    background-color: #7854F7;
+    height: 1000px;
+    margin-bottom: 150px;
+}
+
+.content3-card {
+    width: 450px;
+    height: 400px;
+    position: absolute;
+    left: 700px;
+    margin-top: 30px;
+}
+
+.content3-card2 {
+    width: 450px;
+    height: 400px;
+    position: absolute;
+    left: 370px;
+    margin-top: 570px;
+}
+
+.content3-head {
+    font-size: 36px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.content3-middle {
+    font-size: 18px;
+    color: white;
+    font-weight: 400;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.content3-btn {
+    background: #70C217;
+    border-radius: 60px;
+    width: 256px;
+    height: 64px;
+    border: none;
+    font-size: 18px;
+    color: #ffffff;
+    line-height: 21px;
+    margin-top: 50px;
+}
+
+.card-img-3 {
+    position: absolute;
+    margin-top: -50px;
+    Width: 430px;
+    Height: 548px;
+    left: 200px;
+    box-shadow: -25px 20px 44px rgba(84, 48, 209, 0.4);
+    border-radius: 20px;
+}
+
+.card-img-3-2 {
+    position: absolute;
+    margin-top: 520px;
+    Width: 430px;
+    Height: 548px;
+    left: 870px;
+    box-shadow: -25px 20px 44px rgba(84, 48, 209, 0.4);
+    border-radius: 20px;
+}
+
+.content3-dot {
+    position: absolute;
+    margin-top: 300px;
+    left: 80px;
+}
+
+.circle-shape {
+    position: absolute;
+    margin-top: 180px;
+    left: 70px;
+}
+
+.circle-shape1 {
+    position: absolute;
+    margin-top: 300px;
+    left: 120px;
+}
+
+.circle-shape3 {
+    position: absolute;
+    margin-top: 450px;
+    left: 1000px;
+}

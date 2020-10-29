@@ -1,0 +1,96 @@
+.Content5 {
+    height: 900px;
+    background-color: #7854F7;
+}
+
+.content5 {
+    display: flex;
+    justify-content: center;
+    background-color: #ab9ae6;
+    background-image: linear-gradient(#ab9ae6, #5b37df);
+}
+
+.content5-main {
+    width: 45rem;
+}
+
+.content5-head {
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    text-align-last: left;
+    color: white;
+}
+
+.content5-btn {
+    width: 10rem;
+    height: 3rem;
+    margin-top: 2.6rem;
+    text-transform: uppercase;
+    border-radius: 30px;
+    color: white;
+    font-weight: 600;
+    border: 1px solid white;
+    background: none;
+    cursor: pointer;
+}
+
+.main-grid {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.content5-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 18rem);
+    color: white;
+}
+
+.content5-grid-icons {
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.content5-logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+.content5-logo-img {
+    width: 280px;
+}
+
+.horizontal-line {
+    width: 1200px;
+    border: 1px solid #9A7DFF;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.footer-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 10rem);
+}
+
+.footer-items {
+    color: white;
+    font-weight: 600;
+    text-align: left;
+    font-size: 14px;
+}
+
+.footer-items-inner {
+    margin-top: 20px;
+}
+
+.footer-inner {
+    font-size: 12px;
+    line-height: 22px;
+    text-align: left;
+}

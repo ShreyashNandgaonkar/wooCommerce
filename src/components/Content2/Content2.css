@@ -1,0 +1,240 @@
+.second-content {
+    height: 1000px;
+    margin-bottom: 50px;
+}
+
+.content2 {
+    display: flex;
+    justify-content: center;
+}
+
+.content2-main {
+    height: 10rem;
+    width: 29rem;
+}
+
+.content2-head {
+    font-size: 55px;
+    display: flex;
+    justify-content: center;
+    text-align-last: center;
+    color: #272D4E;
+    font-weight: 700;
+}
+
+.content2-grid-container {
+    position: absolute;
+    left: 45px;
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 25rem);
+    grid-gap: 2rem;
+}
+
+.card-img {
+    width: 390px;
+    height: 293px;
+    border-radius: 20px;
+    /* box-shadow: 0px 18px 52.8537px rgba(215, 228, 249, 0.5); */
+    box-shadow: 0px 30px 70px rgba(199, 212, 231, 0.5);
+}
+
+.card-head {
+    color: #272D4E;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 110px;
+    text-align-last: left;
+}
+
+.card-para {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    color: #94A2B3;
+    text-align-last: left;
+}
+
+.card-btn {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: -5px;
+    line-height: 25px;
+    color: #299EF3;
+    background-color: transparent;
+    border: none;
+    text-align-last: left;
+    outline: none;
+    cursor: pointer;
+}
+
+.content2-grid-items:nth-child(2) {
+    margin-top: 80px;
+}
+
+.content2-grid-items:nth-child(3) {
+    margin-top: 160px;
+}
+
+.working1 {
+    position: absolute;
+    width: 160px;
+    height: 105px;
+    top: 115px;
+    margin-left: 30px;
+    border-radius: 15px;
+    z-index: 10;
+}
+
+.working2 {
+    position: absolute;
+    width: 180px;
+    height: 110px;
+    top: 305px;
+    margin-left: 250px;
+    border-radius: 15px;
+    z-index: 10;
+}
+
+.working3 {
+    position: absolute;
+    width: 120px;
+    height: 80px;
+    top: 15px;
+    margin-left: 220px;
+    border-radius: 15px;
+    z-index: 10;
+}
+
+.inner-image {
+    position: absolute;
+    background-color: white;
+    width: 80px;
+    height: 50px;
+    top: 220px;
+    margin-left: 50px;
+    text-align: center;
+    border-radius: 5px;
+    z-index: 10;
+}
+
+.inner-image-icon {
+    color: rgb(25, 162, 180);
+    font-size: 27px;
+    margin-top: 10px;
+}
+
+.inner-image1 {
+    position: absolute;
+    background-color: white;
+    width: 80px;
+    height: 50px;
+    top: 60px;
+    margin-left: 50px;
+    text-align: center;
+    border-radius: 5px;
+    z-index: 10;
+}
+
+.inner-image-icon1 {
+    color: black;
+    font-size: 27px;
+    margin-top: 10px;
+}
+
+.inner-image2 {
+    position: absolute;
+    background-color: white;
+    width: 80px;
+    height: 50px;
+    top: 100px;
+    margin-left: 250px;
+    text-align: center;
+    border-radius: 5px;
+    z-index: 10;
+}
+
+.inner-image-icon2 {
+    color: black;
+    font-size: 27px;
+    margin-top: 10px;
+}
+
+.inner-image3 {
+    position: absolute;
+    background-color: white;
+    width: 80px;
+    height: 50px;
+    top: 230px;
+    margin-left: 200px;
+    text-align: center;
+    border-radius: 5px;
+    z-index: 10;
+}
+
+.inner-image-icon3 {
+    color: black;
+    font-size: 27px;
+    margin-top: 10px;
+}
+
+.inner-image4 {
+    position: absolute;
+    background-color: white;
+    width: 80px;
+    height: 50px;
+    top: 340px;
+    margin-left: 150px;
+    text-align: center;
+    border-radius: 5px;
+    z-index: 10;
+}
+
+.inner-image-icon4 {
+    color: black;
+    font-size: 27px;
+    margin-top: 10px;
+}
+
+.inner-image5 {
+    position: absolute;
+    background-color: white;
+    width: 40px;
+    height: 30px;
+    top: 10px;
+    margin-left: -10px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid black;
+    z-index: 10;
+}
+
+.inner-image-icon5 {
+    color: black;
+    font-size: 15px;
+    margin-top: 6px;
+}
+
+.grid-container2 {
+    position: absolute;
+    left: -20px;
+    top: 60px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 14rem;
+    border-radius: 5px;
+    z-index: 10;
+}
+
+.grid-item2 {
+    background-color: white;
+    padding: 10px;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 1px;
+}

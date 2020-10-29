@@ -1,0 +1,59 @@
+.Navbar {
+    width: auto;
+    margin: 1rem;
+    font-size: 18px;
+}
+
+.Navbar-wrapper {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
+
+.Navbar-left {
+    grid-column: 1;
+}
+
+.Navbar-left img {
+    width: 200px;
+}
+
+.Navbar-middle {
+    grid-column: 2/4;
+}
+
+.Navbar-middle .NavLink {
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    color: #272D4E;
+    font-weight: 500;
+}
+
+.Navbar-right {
+    grid-column: 4;
+}
+
+.Login {
+    background-color: transparent;
+    margin: 10px;
+    border: transparent;
+    float: right;
+    font-size: 15px;
+    cursor: pointer;
+    outline: none;
+    color: #272D4E;
+}
+
+.GetStarted {
+    outline: none;
+    background-color: #7854F7;
+    border-radius: 3px;
+    height: 2.2rem;
+    width: 8rem;
+    border: transparent;
+    color: white;
+    float: right;
+    font-size: 15px;
+    cursor: pointer;
+}
